@@ -26,3 +26,6 @@ https://github.com/ARisbud123/FinalExamPortfolio/assets/94159243/13272440-fdca-4
 
 I personally worked on this demo video alongside another team mate, compiling the work done as a team and creating an easy to view and understand video to showcase during our presentation.
 
+## GitHub Link
+
+https://github.com/Violet-Team-BUS118I/Prototypes
